@@ -1,3 +1,29 @@
+/* Navbar */
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: #ffffff
+}
+
+li {
+    /* display: inline; */
+    float: left;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    background-color: #ffffff;
+}
+
+/* Search */
+
 .search {
     width: 100%;
     position: relative;
