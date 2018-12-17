@@ -1,0 +1,18 @@
+.search {
+    width: 100%;
+    position: relative;
+}
+
+.searchTerm {
+    float: left;
+    width: 100%;
+    border: 3x solid #000000
+}
+
+.wrap {
+    width: 30%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
