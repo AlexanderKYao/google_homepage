@@ -1,3 +1,16 @@
+body {
+    height: 100%;
+}
+
+.footer {
+    background: #ecf0f1;
+    overflow:hidden;
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+    
+   }
+
 /* Navbar */
 
 ul {
