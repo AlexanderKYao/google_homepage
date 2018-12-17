@@ -6,7 +6,10 @@
 .searchTerm {
     float: left;
     width: 100%;
-    border: 3x solid #000000
+    border: 3x solid #000000;
+    padding: 5px;
+    height: 20px;
+    /* border-radius: 5px; */
 }
 
 .wrap {
